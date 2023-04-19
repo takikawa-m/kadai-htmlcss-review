@@ -6,11 +6,13 @@ body {
 #wrapper {
     height: 100%;
     display: flex;
+justify-content: center;
 }
 
 header {
+  width:1000px;
+  margin: 0 auto;
   background-color: #ffcccc;
-  width: 1000px;
 }
 
 #main {
@@ -32,7 +34,8 @@ ul {
 }
 
 footer {
+  width: 1000px;
+  margin: 0 auto;
   background-color: #ffccff;
   clear: both;
-  width: 1000px;
 }
