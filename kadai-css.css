@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+    height: 100%;
+    display: flex;
+}
+
+header {
+  background-color: #ffcccc;
+  width: 1000px;
+}
+
+#main {
+  background-color: #ccffcc;
+  width: 70opx;
+  float: left;
+}
+
+nav {
+  background-color: #ccccff;
+  width: 300px;
+  float: left;
+}
+
+
+ul {
+  margin: 50;
+  padding: 30;
+}
+
+footer {
+  background-color: #ffccff;
+  clear: both;
+  width: 1000px;
+}
