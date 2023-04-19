@@ -4,14 +4,13 @@ body {
 }
 
 #wrapper {
+    width: 1000px;
     height: 100%;
     display: flex;
-justify-content: center;
 }
 
 header {
   width:1000px;
-  margin: 0 auto;
   background-color: #ffcccc;
 }
 
@@ -21,21 +20,17 @@ header {
   float: left;
 }
 
-nav {
+#menu {
   background-color: #ccccff;
   width: 300px;
   float: left;
 }
 
 
-ul {
-  margin: 50;
-  padding: 30;
-}
 
 footer {
   width: 1000px;
-  margin: 0 auto;
   background-color: #ffccff;
   clear: both;
 }
+
